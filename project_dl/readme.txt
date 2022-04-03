@@ -1,5 +1,3 @@
-[In progress]
-
 Fourth project done during infoShare Academy's jdszr5 Data Science Bootcamp.
 
 Main tasks were:
